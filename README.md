@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cata
+- 👋 Hi, I’m Catalina
 
 <!---
 catadecaboteau/catadecaboteau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
